@@ -4,5 +4,7 @@ public class Main {
 
         System.out.println("Hello world2!");
         System.out.println("Hello world3!");
+        
+        System.out.println("Hello world3!");
     }
 }
