@@ -6,6 +6,7 @@ package org.brit.HomeTask;
 public class addElementString {
 
 
+
     public static String addElementToString(String string, String element, String s){
         return  string+ element;
     }
