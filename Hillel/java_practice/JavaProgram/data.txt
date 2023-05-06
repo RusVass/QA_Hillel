@@ -1,0 +1,7 @@
+1001,Ivanov I.
+1002,Moroz S.
+1003,Sidorov P.
+1004,Petrov Z.
+1005,Ivanov V.
+1006,Vorobey R.
+1007,Petrov A.
