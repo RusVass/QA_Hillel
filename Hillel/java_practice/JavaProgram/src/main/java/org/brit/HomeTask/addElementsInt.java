@@ -34,6 +34,7 @@ public class addElementsInt {
 
     }
 
+    
     public static void printArray ( int[] array){
         for (int i = 0; i < array.length; i++) {
             if (i != array.length - 1) {
@@ -44,7 +45,7 @@ public class addElementsInt {
         }
     }
 
-    
+
 
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5, 6};
